@@ -32,3 +32,5 @@ class fish:
         print(f"{self.name}的长度{self.length}味道{self.taste}")
 
 bingbingwang = fish("鲫鱼","很甜",length="0.35m")
+
+print("git")
